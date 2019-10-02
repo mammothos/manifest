@@ -1,11 +1,11 @@
-# Pixel Experience #
+# Pixel Experience Ultimate #
 
 ### Sync ###
 
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/pe-wip/manifest -b ten
+repo init -u https://github.com/peultimate/manifest -b ten
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
